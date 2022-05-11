@@ -1,8 +1,7 @@
-body{
-    margin: 0;
-    background-color: aquamarine;
-}
-Header{
+.header{
+    top: 0;
+    left: 0;
+    position: fixed;
     margin: 0;
     height: 80px;
     width: 100%;
